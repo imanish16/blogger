@@ -12,7 +12,7 @@
 <?php $page_name =  Request::segment(3);
 
 ?>
-    <title>3Beestx</title>
+    <title>Blogger</title>
     <link rel="icon" type="image/x-icon" href="{{asset('storage/img/RAM-Windows-Fav-Icon-150x150.png')}}"/>
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
